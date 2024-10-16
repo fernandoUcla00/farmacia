@@ -1,7 +1,6 @@
 export default class CL_Farmacia {
 
     constructor() {
-        this.conProducto = 0;
         this.acumProducto = 0;
         this.menorVendido = 100;
         this.codigoMenor;
